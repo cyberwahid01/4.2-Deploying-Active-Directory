@@ -72,7 +72,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/l7BlMtD.png" alt="6"/>
 </p>
 <p>
-7. At this stage, we can now go into our Active Directory Users and Computers program and see "mydomain.com" successfully showing up as a connected computer, our "Client"
+7. At this stage, we can now go into our Active Directory Users and Computers program and see "mydomain.com" successfully showing up as a domain that we can manage.
 </p>
 <br />
 
