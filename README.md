@@ -49,7 +49,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/NkwGTLb.png" alt="3"/>
 </p>
 <p>
-4. We add a new forest and configure the Root Domain Name for our Client.
+4. We add a new forest and configure the Root Domain Name for our domain.
 </p>
 <br />
 
