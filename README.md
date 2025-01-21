@@ -80,7 +80,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/U7X5wUa.png" alt="7"/>
 </p>
 <p>
-8. At this stage, we can go ahead and start executing some functions within our domain. In this instance we are creating some Organizational Units which are used to organise Users into certain categories. In our case we are organising them via "_EMPLOYEES" and "_ADMINS and later as "_CLIENTS". We do this by right-clicking the domain itself, hovering into the "New" menu and choosing "Organizational Unit"
+8. At this stage, we can go ahead and start executing some functions within our domain. In this instance, we are creating some Organizational Units which are used to organize Users into certain categories. In our case we are organising them via "_EMPLOYEES" and "_ADMINS and later as "_CLIENTS". We do this by right-clicking the domain itself, hovering into the "New" menu, and choosing "Organizational Unit"
 </p>
 <br />
 
@@ -88,7 +88,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/PjC1E6f.png" alt="8"/>
 </p>
 <p>
-9. In this slide we can now see, within our domain drop-down menu, two new folders corresponding to our Organisational Units. These folder will be where we place Users based on their categorization within our Organization. The next step will be to create a User whom we will then go on to categorise and assign as an Admin.
+9. In this slide we can now see, within our domain drop-down menu, two new folders corresponding to our Organisational Units. These folders will be where we place Users based on their categorization within our Organization. The next step will be to create a User, whom we will then categorize and assign as an Admin.
 </p>
 <br />
 
@@ -96,14 +96,14 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/mfoZyCu.png" alt="9"/>
 </p>
 <p>
-10. Here we can see we have created a user named Jane Doe and she has been placed in the Admin folder. Please note at this stage she has not been assigned the Administrator role or privileges, she has simply been organised into the correct designated category folder. We created "Jane Doe" by again right-clicking our domain and this time choosing the "User" option, creating her profile and assigning her to the Admin category.  
+10. Here we can see we have created a user named Jane Doe and she has been placed in the Admin folder. Please note at this stage she has not been assigned the Administrator role or privileges, she has simply been organized into the correct designated category folder. We created "Jane Doe" by again right-clicking our domain and this time choosing the "User" option, creating her profile and assigning her to the Admin category.  
 </p>
 <br />
 
 <img src="https://i.imgur.com/h7Ouh0j.png" alt="10"/>
 </p>
 <p>
-11. At this stage we still need to assign Jane Doe the actual administrator role and make her an Admin User. We do this by right-clicking her user profile, choosing properties, clicking on the "Member Of" tab. Within  the Member Of tab, we click on "Add..." at the bottom, and add her into the "Domain Admins" category by choosing _ADMIN when we assign her the role. 
+11. At this stage we still need to assign Jane Doe the actual administrator role and make her an Admin User. We do this by right-clicking her user profile, choosing properties, and clicking on the "Member Of" tab. Within  the Member Of tab, we click on "Add..." at the bottom, and add her into the "Domain Admins" category by choosing _ADMIN when we assign her the role. 
 </p>
 <br />
 
@@ -111,7 +111,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/ahrPzd3.png" alt="11"/>
 </p>
 <p>
-12. To enable us to log into our Client Computer as "Jane Doe" we need to assign login details to her account. She has been given the logon name "jane_admin" and her password was set in another menu. 
+12. To enable us to log into our Client Computer as "Jane Doe" we need to assign login details to her account. She has been given the login name "jane_admin" and her password was set in another menu. 
 </p>
 <br />
 
@@ -119,7 +119,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/EpMcykM.png" alt="12"/>
 </p>
 <p>
-13. Here we can see a successful login to Jane Does account within our Client computer and confirmation that she has is indeed an Administrator.
+13. Here we can see a successful login to Jane Does account within our Client computer and confirmation that she is indeed an Administrator.
 </p>
 <br />
 
@@ -158,7 +158,7 @@ In this section of the Active Directory lab, I run through the process of promot
 <img src="https://i.imgur.com/9NX9xbj.png" alt="17"/>
 </p>
 <p>
-18. At this end stage, to organise the domain, we have created an Organisational Unit named _CLIENTS and placed our Client machine inside this folder.
+18. At this end stage, to organize the domain, we have created an Organisational Unit named _CLIENTS and placed our Client machine inside this folder.
 </p>
 <br />
 
