@@ -12,7 +12,6 @@ In this section of the Active Directory lab, I run through the process of promot
 - Microsoft Azure Resource Group
 - Microsoft Azure Windows 10 Pro version 22H2 - x64 Gen2 Virtual Machine
 - Microsoft Azure Windows Server 22 Datacenter: Azure Edition - x64 Gen2 Virtual Machine
-- osTicket Software and File Dependencies
 
 <h2>Operating Systems Used </h2>
 
